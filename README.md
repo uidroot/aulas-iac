@@ -1,1 +1,1 @@
-# Repo contendo os laboratorios e praticas aplicadas na aula de IaC.
+# Repo contendo os labs e praticas aplicadas nas aulas de IaC.
